@@ -1,6 +1,4 @@
 hi, i am anamul hoque i have been working as a qa since last 5+ years
-<<<<<<< HEAD								
-=======
 i worked as manual and automation tester in my carrer
 completed task-
       Maven
