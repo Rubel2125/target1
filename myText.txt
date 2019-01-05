@@ -1,6 +1,29 @@
 hi, i am anamul hoque i have been working as a qa since last 5+ years
-Peal vai amader ke kawabe from Khalil Birany theke	
-
-
-
-							
+<<<<<<< HEAD								
+=======
+i worked as manual and automation tester in my carrer
+completed task-
+      Maven
+      Pom
+      Testng/Junit
+      Collection
+      CucumberBdd
+      Git
+task must need to be complete-
+      *Jenkins
+      *Java
+      *API testing
+        PostMan
+        RestAssured
+      *Sql
+      *Jira
+      *Linux command
+      
+task need to be complete-      
+      
+     
+     Log4j
+     Sauce Labs
+     Selenium Grid
+      
+>>>>>>> Peal
